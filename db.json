@@ -1,0 +1,22 @@
+{
+  "pictures": [
+    {
+      "artist": "RaNii Johnson",
+      "year": "2000",
+      "photo": "https://picsum.photos/400/499",
+      "id": 1
+    },
+    {
+      "artist": "Messi",
+      "year": "2001",
+      "photo": "https://picsum.photos/400/483",
+      "id": 5
+    },
+    {
+      "artist": "Tolotra",
+      "year": "2005",
+      "photo": "https://picsum.photos/400/437",
+      "id": 6
+    }
+  ]
+}
